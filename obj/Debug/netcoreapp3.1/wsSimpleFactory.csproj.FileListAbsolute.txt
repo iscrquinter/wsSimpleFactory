@@ -1,0 +1,13 @@
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.exe
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.deps.json
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.runtimeconfig.json
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.runtimeconfig.dev.json
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.dll
+C:\Users\iscrq\Desktop\wsSimpleFactory\bin\Debug\netcoreapp3.1\wsSimpleFactory.pdb
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.csprojAssemblyReference.cache
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.AssemblyInfoInputs.cache
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.AssemblyInfo.cs
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.dll
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.pdb
+C:\Users\iscrq\Desktop\wsSimpleFactory\obj\Debug\netcoreapp3.1\wsSimpleFactory.genruntimeconfig.cache
